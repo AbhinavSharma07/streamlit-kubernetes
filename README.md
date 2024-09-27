@@ -1,1 +1,1 @@
-# Streamlit with Kubernetes.
+# Streamlit with Kubernetes
